@@ -1,4 +1,4 @@
-# AWS Netflix Geolocation Project — Full Documentation
+# AWS Netflix Geolocation Project
 
 A fully implemented, production‑style AWS networking project demonstrating **Route 53 Geolocation Routing**, **multi‑region VPC design**, **EC2 web servers**, **Elastic IPs**, **Apache hosting**, and **custom front‑end templates** for India, USA, and Default/Service‑Unavailable locations.
 
