@@ -193,19 +193,6 @@ aws-netflix-geolocation-project/
 ### Example DNS test:
 ```
 nslookup www.<id>.net-flix.xyz 8.8.8.8
-```
-
----
-
-# 🖼 Screenshots to Include
-- India homepage  
-- USA homepage  
-- Default 503 page  
-- EC2 dashboard  
-- Route 53 A records  
-- VPC diagram  
-- Ping tests from different regions  
-
 ---
 
 # 📤 GitHub Deployment Instructions
@@ -225,6 +212,4 @@ This project demonstrates:
 - Global DNS routing  
 - Apache web hosting  
 - Real-world OTT-style traffic routing  
-
-Perfect for submissions, resumes, and interviews.
 
