@@ -217,23 +217,6 @@ git add .
 git commit -m "AWS Netflix Geolocation Project"
 git push origin main
 ```
-
----
-
-# 🎤 Viva / Interview Answers
-
-### Why Route 53 Geolocation?
-To customize content based on **user’s location**.
-
-### Does EC2 region matter?
-No — only **client location** matters.
-
-### Why Elastic IP?
-Public IP of EC2 changes on stop/start.
-
-### Why 3 separate servers?
-To clearly differentiate country‑specific content.
-
 ---
 
 # 🏁 Conclusion
